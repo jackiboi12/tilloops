@@ -23,9 +23,8 @@ public class sixth {
         //Example 2
         //using CLASS 1
         //Declares a variable of type Direction
-        Direction direction;
         //instantiate the enumDirection
-        direction = Direction.East;
+        Direction direction = Direction.East;
         System.out.println("value: " + direction);
 
     }

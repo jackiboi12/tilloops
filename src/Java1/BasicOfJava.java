@@ -1,5 +1,5 @@
 package Java1;
-
+//1
 public class BasicOfJava
 {
     public static void main(String[] args)
@@ -63,6 +63,9 @@ public class BasicOfJava
         int d = (int)c;                 //Manual casting: double to int
         System.out.println(c);
         System.out.println(d);
+        int speedLimit = 80;                //int speedlimit;
+        System.out.println(speedLimit);     //speedlimit = 80;
+
 
         //Arithmetic Operators
 /*
@@ -121,7 +124,6 @@ public class BasicOfJava
         System.out.println(!(e > 3 && e < 10));     //!(Logical not	):Reverse the result, returns false if the result is true
 
         //Example 10
-        //Example 1
         int a2 = 10;
         int b2 = 0;
         int c2 = 10;
@@ -132,5 +134,12 @@ public class BasicOfJava
         System.out.println(b2);
         System.out.println(c2);
         System.out.println(d2);
+
+        //Example 11
+        char letter1 = '9';     // prints 9
+        char letter2 = 65;      // prints A because JAVA treats characters as an integer and the ASCII value of A is 65.
+        System.out.println(letter1+" "+letter2);
+
+
     }
 }

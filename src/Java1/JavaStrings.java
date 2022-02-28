@@ -1,5 +1,5 @@
 package Java1;
-
+//3
 public class JavaStrings {
     public static void main(String[] args) {
         //Example 1
@@ -38,7 +38,7 @@ public class JavaStrings {
         //Example 7
         int x = 10;
         int y = 2;
-        System.out.println(x>y);
+        System.out.println(x>y);    //boolean value
 
     }
 }
