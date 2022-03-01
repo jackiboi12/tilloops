@@ -50,5 +50,7 @@ public class IfElse {
         else
             System.out.println("b is smaller than 10");
 
+
+
     }
 }
