@@ -1,4 +1,4 @@
-package PracticeSet1;
+package Java3CPatternProblems;
 
 import java.util.Scanner;
 public class PatternsQuestions

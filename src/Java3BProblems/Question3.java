@@ -1,4 +1,4 @@
-package Java3;
+package Java3BProblems;
 //Find factorial of a number
 import java.util.Scanner;
 

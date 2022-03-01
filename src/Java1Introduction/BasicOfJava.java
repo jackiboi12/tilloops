@@ -1,4 +1,4 @@
-package Java1;
+package Java1Introduction;
 //1
 public class BasicOfJava
 {

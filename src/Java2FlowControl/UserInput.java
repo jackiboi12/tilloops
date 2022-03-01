@@ -1,4 +1,4 @@
-package Java2;
+package Java2FlowControl;
 //3
 import java.util.Scanner;
 

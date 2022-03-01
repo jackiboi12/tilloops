@@ -1,15 +1,12 @@
-package Java4;
-import java.util.*;
+package Java3AArraysStrings;
+
 //3
 public class Strings2 {
     public static void main(String[] args)
     {
+        //Example 1
         StringBuilder sb = new StringBuilder("Tony");
         System.out.println(sb);
-
-        //Example 1
-        //char at index 0
-        System.out.println(sb.charAt(0));
 
         //Example 2
         //set char at index 0

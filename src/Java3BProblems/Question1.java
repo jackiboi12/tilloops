@@ -1,4 +1,4 @@
-package Java3;
+package Java3BProblems;
 //Function to add 2 numbers and return the sum
 import java.util.Scanner;
 

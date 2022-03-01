@@ -1,4 +1,4 @@
-package Java1;
+package Java1Introduction;
 //3
 public class JavaStrings {
     public static void main(String[] args) {

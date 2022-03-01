@@ -1,4 +1,4 @@
-package Java2;
+package Java2FlowControl;
 //1
 //if-else:if statement is the most simple decision making statement. It is used to decide whether a certain statement or block of statements will be executed or not,
 // We can use the else statement with if statement to execute a block of code when the condition is false
@@ -49,6 +49,8 @@ public class IfElse {
         }
         else
             System.out.println("b is smaller than 10");
+
+
 
     }
 }

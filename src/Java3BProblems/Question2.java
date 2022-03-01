@@ -1,4 +1,4 @@
-package Java3;
+package Java3BProblems;
 //Function to multiply 2 numbers and return the product
 import java.util.Scanner;
 public class Question2 {

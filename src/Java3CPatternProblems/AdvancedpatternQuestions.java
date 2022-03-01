@@ -1,4 +1,4 @@
-package PracticeSet1;
+package Java3CPatternProblems;
 
 public class AdvancedpatternQuestions {
     public static void main(String[] args) {
